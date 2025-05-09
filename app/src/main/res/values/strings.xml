@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade 3</string>
+    <string name="series">Séries</string>
+    <string name="filmes">Filmes</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="assistir">Assistir</string>
+    <string name="minha_lista_button">Minha Lista</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="acao">Ação</string>
+    <string name="superherois">Super-heróis</string>
+    <string name="scifi">Ficção científica</string>
+    <string name="lancamento">Lançamento</string>
+</resources>
